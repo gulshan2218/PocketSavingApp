@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/bottom_item_background.xml" value="0.24791666666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_blue_normal.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_blue_pressed.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_blue_selector.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_grey_rounded_normal.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_grey_rounded_pressed.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_orange_rounded_normal.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/btn_orange_rounded_pressed.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/cursor.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/greenbar.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/ic_rectangle_btm.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/ic_rectangle_white.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/layout_rounded_top_white.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/logout.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/mainbgpocketmoney.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/onboarding_selected_dot_blue.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/onboarding_selected_dot_white.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/onboarding_unselected_dot_blue.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/onboarding_unselected_dot_orange.xml" value="0.1421875" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/onboarding_unselected_dot_white.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/onboarding_viewpager_selector_white.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/rectanglebtnhomescreen.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/redbar.xml" value="0.15208333333333332" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/redbg.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/redbuttonbg.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/drawable/whitecircularrectangle.xml" value="0.2484375" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/activity_enter_pocket_money.xml" value="0.264" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/add_trip_plan_fab.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/expenses.xml" value="0.536" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_add_loan.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_add_plan.xml" value="0.264" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_add_trip_plan.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_continue_with_google.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_entry.xml" value="0.4" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_floating_btn.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_group_divide.xml" value="0.1" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_home.xml" value="0.21794871794871795" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_loan.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_onboarding2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_pay_online.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_plan_payments.xml" value="0.264" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_pocket_money.xml" value="0.264" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_profile.xml" value="0.4" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_trip_planning.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/fragment_view_history.xml" value="0.23229166666666667" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/income.xml" value="0.1" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/loaditem.xml" value="0.47653429602888087" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/layout/tripplanning_item.xml" value="0.4" />
+        <entry key="..\:/Internship Work/PocketSaving/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

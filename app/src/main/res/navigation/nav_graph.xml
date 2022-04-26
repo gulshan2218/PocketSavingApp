@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.dsckiet.pocketsaving.ui.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_pocketMoneyFragment"
+            app:destination="@id/pocketMoneyFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_payOnlineFragment2"
+            app:destination="@id/payOnlineFragment" />
+
+        <action
+            android:id="@+id/action_homeFragment_to_planPaymentsFragment"
+            app:destination="@id/planPaymentsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/payOnlineFragment"
+        android:name="com.dsckiet.pocketsaving.ui.PayOnlineFragment"
+        android:label="fragment_pay_online"
+        tools:layout="@layout/fragment_pay_online" />
+    <fragment
+        android:id="@+id/pocketMoneyFragment"
+        android:name="com.dsckiet.pocketsaving.ui.PocketMoneyFragment"
+        android:label="fragment_pocket_money"
+        tools:layout="@layout/fragment_pocket_money" />
+    <fragment
+        android:id="@+id/floatingBtnFragment"
+        android:name="com.dsckiet.pocketsaving.ui.FloatingBtnFragment"
+        android:label="fragment_floating_btn"
+        tools:layout="@layout/fragment_floating_btn" >
+        <action
+            android:id="@+id/action_floatingBtnFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/homeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/planPaymentsFragment"
+        android:name="com.dsckiet.pocketsaving.ui.PlanPaymentsFragment"
+        android:label="fragment_plan_payments"
+        tools:layout="@layout/fragment_plan_payments" >
+        <action
+            android:id="@+id/action_planPaymentsFragment_to_addPlanFragment"
+            app:destination="@id/addPlanFragment" />
+        <action
+            android:id="@+id/action_planPaymentsFragment_to_addTripPlanFragment"
+            app:destination="@id/addTripPlanFragment" />
+        <action
+            android:id="@+id/action_planPaymentsFragment_to_addLoanFragment"
+            app:destination="@id/addLoanFragment" />
+        <action
+            android:id="@+id/action_planPaymentsFragment_to_groupDivideFragment"
+            app:destination="@id/groupDivideFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.dsckiet.pocketsaving.ui.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.dsckiet.pocketsaving.ui.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/addPlanFragment"
+        android:name="com.dsckiet.pocketsaving.ui.AddPlanFragment"
+        android:label="fragment_add_plan"
+        tools:layout="@layout/fragment_add_plan" />
+    <fragment
+        android:id="@+id/tripPlanning"
+        android:name="com.dsckiet.pocketsaving.ui.TripPlanning"
+        android:label="fragment_trip_planning"
+        tools:layout="@layout/fragment_trip_planning" />
+    <fragment
+        android:id="@+id/loanFragment"
+        android:name="com.dsckiet.pocketsaving.ui.LoanFragment"
+        android:label="fragment_loan"
+        tools:layout="@layout/fragment_loan" />
+    <fragment
+        android:id="@+id/groupDivideFragment"
+        android:name="com.dsckiet.pocketsaving.ui.GroupDivideFragment"
+        android:label="fragment_group_divide"
+        tools:layout="@layout/fragment_group_divide" />
+    <fragment
+        android:id="@+id/addTripPlanFragment"
+        android:name="com.dsckiet.pocketsaving.ui.AddTripPlanFragment"
+        android:label="AddTripPlanFragment" >
+        <action
+            android:id="@+id/action_addTripPlanFragment_to_tripPlanning"
+            app:destination="@id/tripPlanning"
+            app:popUpTo="@id/tripPlanning" />
+    </fragment>
+    <fragment
+        android:id="@+id/addLoanFragment"
+        android:name="com.dsckiet.pocketsaving.ui.AddLoanFragment"
+        android:label="AddLoanFragment" >
+        <action
+            android:id="@+id/action_addLoanFragment_to_loanFragment"
+            app:destination="@id/loanFragment"
+            app:popUpTo="@id/loanFragment" />
+    </fragment>
+</navigation>
